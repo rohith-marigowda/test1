@@ -1,2 +1,3 @@
 testing
 adding lines from feature branch BRANCH1
+adding lines again from feature branch BRANCH1
